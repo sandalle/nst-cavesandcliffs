@@ -21,7 +21,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.18.2-40.1.2](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
+[1.18.2-40.1.20](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
 
 
 # Texture Packs
@@ -74,6 +74,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Cloth Config API (Forge)](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)
 1. [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 1. [Cobble for Days](https://www.curseforge.com/minecraft/mc-mods/cobblefordays)
+1. [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core) - Needed by Thermal mods
 1. [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 1. [Colytra (Forge)](https://www.curseforge.com/minecraft/mc-mods/colytra)
 1. [Comforts (Forge)](https://www.curseforge.com/minecraft/mc-mods/comforts)
@@ -81,6 +82,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 1. [Connected Textures Mod (CTM)](https://www.curseforge.com/minecraft/mc-mods/ctm)
 1. [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+1. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 1. [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
 1. [Corail Deconstruction Table](https://www.curseforge.com/minecraft/mc-mods/corail-deconstruction-table)
 1. [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
@@ -133,7 +135,9 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 1. [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 1. [JEI Tweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+1. [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
 1. [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+1. [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
 1. [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 1. [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
 1. [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
@@ -153,12 +157,14 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Macaw's Roofs - Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs-biomes-o-plenty)
 1. [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 1. [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+1. [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) - Required by Tinker's Construct
 1. [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 1. [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
 1. [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)
 1. [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators)
 1. [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
 1. [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
+1. [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
 1. [Modern UI](https://www.curseforge.com/minecraft/mc-mods/modern-ui)
    * Requires Java 11+!
 1. [More Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/more-storage-drawers)
@@ -167,11 +173,14 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Multi-Piston](https://www.curseforge.com/minecraft/mc-mods/multi-piston)
 1. [Mystical Aggraditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions)
 1. [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture)
+1. [Mystical Agriculture Tiered Crystals](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals)
 1. [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
 1. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 1. [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 1. [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science) - Permision granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
+1. [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
+1. [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 1. [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 1. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 1. [Polymorph (Forge)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -207,6 +216,14 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [TerraBlender (Forge)](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 1. [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
 1. [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+1. [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
+1. [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
+1. [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
+1. [Thermal Innovation](https://www.curseforge.com/minecraft/mc-mods/thermal-innovation)
+1. [Thermal Locomotion](https://www.curseforge.com/minecraft/mc-mods/thermal-locomotion)
+1. [Thermal: Extra](https://www.curseforge.com/minecraft/mc-mods/thermal_extra)
+1. [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
+1. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 1. [Tool Stats](https://www.curseforge.com/minecraft/mc-mods/tool-stats)
 1. [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
 1. [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
@@ -228,34 +245,27 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Maybe add
-1. [Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)
 1. [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook)
-1. [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
-1. [JourneyMap Integration](https://www.curseforge.com/minecraft/mc-mods/journeymap-integration)
-1. [JER Integration](https://www.curseforge.com/minecraft/mc-mods/jer-integration)
-1. [Mystical Agriculture Tiered Crystals](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture-tiered-crystals)
-1. [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
-1. [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
-1. [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
-1. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 1. [Tome of Blood](https://www.curseforge.com/minecraft/mc-mods/tome-of-blood)
 
 
 # To be added once released for 1.18.2
 1. [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry)
+1. [Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)
 1. [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 1. [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) - Required by Ice and Fire: Dragons
 1. [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 1. [Guide-API Village and Pillage](https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage)
 1. [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 1. [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+1. [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 1. [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 1. [LibVulpes](https://www.curseforge.com/minecraft/mc-mods/libvulpes) - Required by Advanced Rocketry
-1. [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
-1. [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+1. [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+1. [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 1. [Random Patches (Forge)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
+1. [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 1. [The Abyss: Chapter II](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)
-1. [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 1. [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks)
 1. [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 1. [Vampirism Integrations](https://www.curseforge.com/minecraft/mc-mods/vampirism-integrations)
