@@ -10,6 +10,7 @@
   "rarity": 0,
   "toughness": 0.0,
   "knockbackResistance": 0.0,
+  "curios": true,
   "capacity": 100000,
   "usage": 70,
   "speedVertical": 0.25,
@@ -20,6 +21,5 @@
   "speedHover": 0.1,
   "sprintSpeedMulti": 1.0,
   "sprintSpeedMultiVertical": 1.0,
-  "sprintFuelMulti": 1.0,
-  "curios": true
+  "sprintFuelMulti": 1.0
 }

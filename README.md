@@ -1,12 +1,10 @@
 # nst-nether
-NST Nether (Minecraft 1.16)
+NST Caves & Cliffs (Minecraft 1.18)
 ============================
 
 Never Stop Toasting Minecraft 1.18.2 modpack by Lolmer (a.k.a. sandalle). Just posting what I use for my family to play at home. This modpack is a kitchen sink modpack catering to my children (ages 8+) with magic (Botania and Ars Nouveou) for overcoming the world and extra bosses (Botania) , technology for automating resource gathering and processing (Mekanism and Immersive Engineering), and exploring other dimensions (RFTools Dimensions and The Abyss) and space (TBD) as the primary focuses. Some experimental mods (Plato's Transporters) are thrown in to give them a try.
 
 I may add/remove mods throughout the lifespan of this pack as my family's needs and wants change.
-
-*Requires* Java 18+ (for Modern UI mod and Forge's Java major.minor version 60.0 requirement).
 
 
 # Other modpacks by Lolmer
@@ -17,11 +15,11 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Packs using this config
-[NST Cliffs & Caves](https://www.curseforge.com/minecraft/modpacks/nst-cliffsandcaves)
+[NST Caves & Cliffs](https://www.curseforge.com/minecraft/modpacks/nst-cliffsandcaves)
 
 
 # Forge
-[1.18.2-40.1.20](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
+[1.18.2-40.1.41](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
 
 
 # Texture Packs
@@ -48,6 +46,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Ballistix](https://www.curseforge.com/minecraft/mc-mods/ballistix) - Permission granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [Balm (Forge Edition)](https://www.curseforge.com/minecraft/mc-mods/balm)
 1. [Basic Nether Ores](https://www.curseforge.com/minecraft/mc-mods/basic-nether-ores)
+1. [Basic End Ores](https://www.curseforge.com/minecraft/mc-mods/basic-end-ores)
 1. [Baubley Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters)
 1. [Bedspreads (Forge)](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
 1. [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
@@ -131,6 +130,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [GUI Followers](https://www.curseforge.com/minecraft/mc-mods/gui-followers)
 1. [Healing Campfire](https://www.curseforge.com/minecraft/mc-mods/healing-campfire)
 1. [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+1. [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 1. [Iron Jetpacks](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
 1. [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 1. [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
@@ -179,8 +179,8 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 1. [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science) - Permision granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
-1. [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
-1. [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+1. [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
+1. [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 1. [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 1. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 1. [Polymorph (Forge)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -205,6 +205,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 1. [Security Craft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 1. [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene)
+1. [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 1. [Sit](https://www.curseforge.com/minecraft/mc-mods/sit)
 1. [spark](https://www.curseforge.com/minecraft/mc-mods/spark)
 1. [Statues](https://www.curseforge.com/minecraft/mc-mods/statues)
@@ -229,6 +230,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 1. [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 1. [Travel Anchors](https://www.curseforge.com/minecraft/mc-mods/travel-anchors)
+1. [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 1. [Ultimate Car Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod)
 1. [Ultimate Plane Mod](https://www.curseforge.com/minecraft/mc-mods/ultimate-plane-mod)
 1. [Upgraded Netherite](https://www.curseforge.com/minecraft/mc-mods/upgraded-netherite)
@@ -258,16 +260,13 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Guide-API Village and Pillage](https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage)
 1. [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 1. [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
-1. [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 1. [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 1. [LibVulpes](https://www.curseforge.com/minecraft/mc-mods/libvulpes) - Required by Advanced Rocketry
-1. [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
-1. [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
+1. [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
+1. [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 1. [Random Patches (Forge)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
-1. [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 1. [The Abyss: Chapter II](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)
 1. [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks)
-1. [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 1. [Vampirism Integrations](https://www.curseforge.com/minecraft/mc-mods/vampirism-integrations)
 1. [Waystones2Waypoints](https://www.curseforge.com/minecraft/mc-mods/waystones2waypoints)
 1. [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
