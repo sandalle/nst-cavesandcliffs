@@ -139,15 +139,15 @@
 
 [Requirements]
 	#Should wear requirements be enabled? false means no requirements
-	wearReqEnabled = true
+	wearReqEnabled = false
 	#Should Enchantment Use requirements be enabled? false means no requirements
-	enchantUseReqEnabled = true
+	enchantUseReqEnabled = false
 	#Should Enchantment Use requirements automatically scale according to previous values, provided they exist? example: level1Req = 5 agility, level2Req = 10 farming - Level 4 enchantment would require level 10 agility, and level 20 farming (highestSpecifiedLevelReqs / highestSpecifiedLevel * enchantLevel)
 	enchantUseReqAutoScaleEnabled = true
 	#Should tool requirements be enabled? false means no requirements
-	toolReqEnabled = true
+	toolReqEnabled = false
 	#Should weapon requirements be enabled? false means no requirements
-	weaponReqEnabled = true
+	weaponReqEnabled = false
 	#Should mob kill req be enabled? false means no requirements
 	killReqEnabled = true
 	#Should mob kill xp be enabled? false means no requirements
@@ -155,17 +155,17 @@
 	#Should mob rare drops be enabled? false means no requirements
 	mobRareDropEnabled = true
 	#Should use requirements be enabled? false means no requirements
-	useReqEnabled = true
+	useReqEnabled = false
 	#Should place requirements be enabled? false means no requirements
-	placeReqEnabled = true
+	placeReqEnabled = false
 	#Should break requirements be enabled? false means no requirements
-	breakReqEnabled = true
+	breakReqEnabled = false
 	#Should biome requirements be enabled? false means no requirements
-	biomeReqEnabled = true
+	biomeReqEnabled = false
 	#Should dimensional travel requirements be enabled? false means no requirements
-	dimensionTravelReqEnabled = true
+	dimensionTravelReqEnabled = false
 	#Should certain items be restricted from being crafted, without the level requirement?
-	craftReqEnabled = true
+	craftReqEnabled = false
 	#Should biome negative effects be enabled? false means no negative effects
 	negativeBiomeEffectEnabled = true
 	#Should biome positive effects be enabled? false means no positive effects
