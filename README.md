@@ -216,7 +216,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 1. [TerraBlender (Forge)](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 1. [The Lost Cities](https://www.curseforge.com/minecraft/mc-mods/the-lost-cities)
-1. [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 1. [Thermal Cultivation](https://www.curseforge.com/minecraft/mc-mods/thermal-cultivation)
 1. [Thermal Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)
 1. [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion)
@@ -237,7 +236,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Vampirism - Become a vampire!](https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire)
 1. [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 1. [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
-1. [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
 1. [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome)
 1. [YUNG's API (Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-api)
 1. [YUNG's Better Dungeons (Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
@@ -249,6 +247,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 # Maybe add
 1. [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook)
 1. [Tome of Blood](https://www.curseforge.com/minecraft/mc-mods/tome-of-blood)
+1. [RebindNarrator](https://www.curseforge.com/minecraft/mc-mods/rebindnarrator)
 
 
 # To be added once released for 1.18.2
