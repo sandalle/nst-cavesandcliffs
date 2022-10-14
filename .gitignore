@@ -82,6 +82,7 @@ config/servertabinfo-client.toml
 config/silentgear-client.toml
 config/structurize-client.toml
 config/supplementaries-client.toml
+config/theoneprobe-common.toml
 config/tombstone-client.toml
 config/toolstats-client.toml
 config/upgrade_aquatic-client.toml

@@ -19,7 +19,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.18.2-40.1.41](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
+[1.18.2-40.1.80](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
 
 
 # Texture Packs
@@ -58,6 +58,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
    * `level-type="biomesoplenty"`
 1. [Blastcraft](https://www.curseforge.com/minecraft/mc-mods/blast-craft) - Permission granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [BlockUI](https://www.curseforge.com/minecraft/mc-mods/blockui)
+1. [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 1. [Bonsai Trees 3](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees)
 1. [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 1. [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
@@ -179,8 +180,10 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Not Enough Crashes (Forge)](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge)
 1. [Nuclear Science](https://www.curseforge.com/minecraft/mc-mods/nuclear-science) - Permision granted [here](https://docs.google.com/spreadsheets/d/1L5j9d4VLD5U-IsB77o24luxfnnlFZzQYR-ZAyxIeNow/view#gid=0).
 1. [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
+1. [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
 1. [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 1. [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
+1. [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 1. [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 1. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 1. [Polymorph (Forge)](https://www.curseforge.com/minecraft/mc-mods/polymorph)
@@ -253,7 +256,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 # To be added once released for 1.18.2
 1. [Advanced Rocketry](https://www.curseforge.com/minecraft/mc-mods/advanced-rocketry)
 1. [Better FPS](https://www.curseforge.com/minecraft/mc-mods/betterfps)
-1. [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 1. [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) - Required by Ice and Fire: Dragons
 1. [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 1. [Guide-API Village and Pillage](https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage)
@@ -261,8 +263,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 1. [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 1. [LibVulpes](https://www.curseforge.com/minecraft/mc-mods/libvulpes) - Required by Advanced Rocketry
-1. [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
-1. [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 1. [Random Patches (Forge)](https://www.curseforge.com/minecraft/mc-mods/randompatches-forge)
 1. [The Abyss: Chapter II](https://www.curseforge.com/minecraft/mc-mods/the-abyss-chapter-ii)
 1. [Tinkers' Mechworks](https://www.curseforge.com/minecraft/mc-mods/tinkers-mechworks)
