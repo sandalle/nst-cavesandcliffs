@@ -147,6 +147,10 @@
     {
       "item": "electrodynamics:dustniter",
       "emc": 192
+    },
+    {
+      "item": "minecraft:stone_slab",
+      "emc": 1
     }
   ]
 }
