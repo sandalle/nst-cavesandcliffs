@@ -29,10 +29,10 @@
 			#The list of structure ids that baby creepers will not spawn in even if the normal mob variant can spawn.
 			structureBlackList = []
 
-		#Config options regarding baby endermen.
+		#Config options regarding baby endermen. Fuck Baby Endermen.
 		[additions-common.spawning.baby-endermen]
 			#Enable the spawning of baby endermen. Think baby zombies.
-			shouldSpawn = true
+			shouldSpawn = false
 			#The multiplier for weight of baby endermen spawns, compared to the adult mob.
 			#Range: 0.0 ~ 100.0
 			weightPercentage = 0.5
