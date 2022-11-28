@@ -1,4 +1,152 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "thermal:corn",
+      "emc": 24
+    },
+    {
+      "item": "thermal:eggplant",
+      "emc": 24
+    },
+    {
+      "item": "thermal:peanut",
+      "emc": 24
+    },
+    {
+      "item": "thermal:onion",
+      "emc": 24
+    },
+    {
+      "item": "aquaculture:gar",
+      "emc": 64
+    },
+    {
+      "item": "botania:livingrock",
+      "emc": 1
+    },
+    {
+      "item": "alltheores:zinc_ingot",
+      "emc": 128
+    },
+    {
+      "item": "thermal:onion_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:eggplant_seeds",
+      "emc": 16
+    },
+    {
+      "item": "immersiveengineering:seed",
+      "emc": 16
+    },
+    {
+      "item": "car:canola_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:amaranth_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:corn_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:flax_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:flax",
+      "emc": 12
+    },
+    {
+      "item": "thermal:amaranth",
+      "emc": 16
+    },
+    {
+      "item": "immersiveengineering:hemp_fiber",
+      "emc": 4
+    },
+    {
+      "item": "mysticalagriculture:soulstone_cobble",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:sky_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust",
+      "emc": 256
+    },
+    {
+      "item": "pamhc2crops:arrowrootseeditem",
+      "emc": 16
+    },
+    {
+      "item": "thermal:sadiroot_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:spinach_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:bell_pepper_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:green_bean_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:peanut_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:strawberry_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:tomato_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:radish_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:barley_seeds",
+      "emc": 16
+    },
+    {
+      "item": "thermal:rice_seeds",
+      "emc": 16
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence",
+      "emc": 32
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "emc": 32
+    },
+    {
+      "item": "ars_nouveau:source_berry",
+      "emc": 16
+    },
+    {
+      "item": "electrodynamics:raworefluorite",
+      "emc": 576
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 48
+    },
+    {
+      "item": "electrodynamics:dustniter",
+      "emc": 192
+    }
+  ]
 }
