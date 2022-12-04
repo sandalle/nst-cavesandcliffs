@@ -155,6 +155,34 @@
     {
       "item": "minecraft:glass_pane",
       "emc": 1
+    },
+    {
+      "item": "biomesoplenty:bramble",
+      "emc": 8
+    },
+    {
+      "item": "quark:white_corundum",
+      "emc": 1
+    },
+    {
+      "item": "biomesoplenty:dead_grass",
+      "emc": 1
+    },
+    {
+      "item": "electrodynamics:dustsulfur",
+      "emc": 16
+    },
+    {
+      "item": "ars_nouveau:magebloom_fiber",
+      "emc": 2052
+    },
+    {
+      "item": "ars_nouveau:magebloom_crop",
+      "emc": 8208
+    },
+    {
+      "item": "ars_nouveau:source_gem",
+      "emc": 2048
     }
   ]
 }
