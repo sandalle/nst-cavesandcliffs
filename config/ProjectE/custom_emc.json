@@ -151,6 +151,10 @@
     {
       "item": "minecraft:stone_slab",
       "emc": 1
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 1
     }
   ]
 }
