@@ -195,6 +195,14 @@
     {
       "item": "minecraft:cobblestone_slab",
       "emc": 1
+    },
+    {
+      "item": "minecraft:mossy_cobblestone_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:smooth_stone_slab",
+      "emc": 1
     }
   ]
 }
