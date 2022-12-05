@@ -183,6 +183,10 @@
     {
       "item": "ars_nouveau:source_gem",
       "emc": 2048
+    },
+    {
+      "item": "minecolonies:compost",
+      "emc": 48
     }
   ]
 }
