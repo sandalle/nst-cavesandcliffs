@@ -187,6 +187,14 @@
     {
       "item": "minecolonies:compost",
       "emc": 48
+    },
+    {
+      "item": "minecraft:stone_brick_slab",
+      "emc": 1
+    },
+    {
+      "item": "minecraft:cobblestone_slab",
+      "emc": 1
     }
   ]
 }
