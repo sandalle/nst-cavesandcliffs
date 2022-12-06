@@ -207,6 +207,10 @@
     {
       "item": "mekanism:bio_fuel",
       "emc": 4
+    },
+    {
+      "item": "absentbydesign:slab_bricks_cracked",
+      "emc": 1
     }
   ]
 }
