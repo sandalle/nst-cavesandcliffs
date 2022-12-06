@@ -203,6 +203,10 @@
     {
       "item": "minecraft:smooth_stone_slab",
       "emc": 1
+    },
+    {
+      "item": "mekanism:bio_fuel",
+      "emc": 4
     }
   ]
 }
