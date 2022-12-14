@@ -19,7 +19,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.18.2-40.1.80](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
+[1.18.2-40.1.86](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
 
 
 # Texture Packs
