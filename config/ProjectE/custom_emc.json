@@ -211,6 +211,30 @@
     {
       "item": "absentbydesign:slab_bricks_cracked",
       "emc": 1
+    },
+    {
+      "item": "mekanism:substrate",
+      "emc": 16
+    },
+    {
+      "item": "thermal:niter",
+      "emc": 192
+    },
+    {
+      "item": "thermal:niter_dust",
+      "emc": 192
+    },
+    {
+      "item": "thermal:sulfur",
+      "emc": 16
+    },
+    {
+      "item": "thermal:cinnabar",
+      "emc": 16
+    },
+    {
+      "item": "thermal:cinnabar_dust",
+      "emc": 16
     }
   ]
 }
