@@ -8,7 +8,7 @@
 
 	[common.internal]
 		#INTERNAL - Set to 'never' if you don't want to be notified about integration mods
-		integrationsNotifier = ""
+		integrationsNotifier = "waila:bloodmagic:biomesoplenty:tconstruct:crafttweaker:"
 		#INTERNAL
 		optifineBloodvisionWarning = false
 
