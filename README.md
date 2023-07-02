@@ -19,7 +19,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Forge
-[1.18.2-40.1.86](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
+[1.18.2-40.2.9](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.18.2.html)
 
 
 # Texture Packs
@@ -50,7 +50,6 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 1. [Baubley Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters)
 1. [Bedspreads (Forge)](https://www.curseforge.com/minecraft/mc-mods/bedspreads)
 1. [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
-1. [Better Loading Screen](https://www.curseforge.com/minecraft/mc-mods/betterloadingscreen)
 1. [Better Spawner Control (Forge)](https://www.curseforge.com/minecraft/mc-mods/better-spawner-control)
 1. [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 1. [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)

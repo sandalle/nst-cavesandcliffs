@@ -7,6 +7,5 @@
 
 [[ -f /etc/profile.d/java.sh ]] && . /etc/profile.d/java.sh
 SERVER_DIR="$(pwd)"
-FORGE_VERSION='1.18.2-40.1.86'
+FORGE_VERSION='1.18.2-40.2.9'
 java @user_jvm_args.txt @libraries/net/minecraftforge/forge/${FORGE_VERSION}/unix_args.txt "$@"
-
