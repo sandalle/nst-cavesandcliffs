@@ -1,4 +1,4 @@
-# nst-nether
+# nst-cavesandcliffs
 NST Caves & Cliffs (Minecraft 1.18)
 ============================
 
@@ -15,7 +15,7 @@ I may add/remove mods throughout the lifespan of this pack as my family's needs 
 
 
 # Packs using this config
-[NST Caves & Cliffs](https://www.curseforge.com/minecraft/modpacks/nst-cliffsandcaves)
+[NST Caves & Cliffs](https://www.curseforge.com/minecraft/modpacks/nst-cavesandcliffs)
 
 
 # Forge
